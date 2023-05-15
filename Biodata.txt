@@ -1,3 +1,7 @@
-Nama: #N/A
-Umur: #N/A
-Alamat: #N/A
+Nama: wawa
+Umur: 20
+Alamat: joho lor
+
+Nama: shabrina
+Umur: 19
+Alamat: palur
